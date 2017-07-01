@@ -97,7 +97,7 @@ public class HomeFrame extends JFrame {
 	JLabel aboutlabel=new JLabel();
 	
 	
-	Font banglafont=new Font("SolaimanLipi", Font.BOLD,15);
+	Font banglafont=new Font("siyam rupali", Font.BOLD,15);
 	public HomeFrame() throws Exception  , IllegalAccessException , ClassCastException
 	{
 		setTitle("HOME");
